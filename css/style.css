@@ -21,7 +21,7 @@
   list-style: none;
   display: flex;
   align-items: center;
-  gap: 3.2rem;
+  gap: 6.4rem;
 }
 
 .main-nav-link:link,
@@ -61,7 +61,7 @@
 }
 
 .hero {
-  max-width: 110rem;
+  max-width: 120rem;
   margin: 0 auto;
   padding: 0 2.4rem;
   display: grid;
@@ -295,7 +295,7 @@
 }
 
 .testimonials-container {
-  padding: 9.6rem 4.8rem;
+  padding: 9.6rem;
 }
 
 .testimonials {
