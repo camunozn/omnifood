@@ -248,7 +248,7 @@
   .btn,
   .btn:link,
   .btn:visited {
-    padding: 2.4rem 1.6rem;
+    padding: 2.4rem 1.2rem;
   }
 
   .hero-img {
@@ -293,6 +293,24 @@
   }
 
   .feature {
+    padding: 0 2.4rem;
+  }
+
+  .cta {
+    grid-template-columns: 1fr;
+  }
+
+  .cta-text-box {
+    padding: 3.2rem;
+  }
+
+  .cta-img-box {
+    height: 32rem;
+    grid-row: 1;
+  }
+
+  .grid--footer {
+    column-gap: 2.4rem;
     padding: 0 2.4rem;
   }
 }
