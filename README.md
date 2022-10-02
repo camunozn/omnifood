@@ -1,3 +1,3 @@
 # omnifood
 
-Responsive website
+Responsive website for an AI powered meals provider
